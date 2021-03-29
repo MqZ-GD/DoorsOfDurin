@@ -6,4 +6,4 @@ are the sum of the first number and the product of the second number.
 
 This was my very first C++ project as I taught myself C++.
 
-Thanks!
+Thanks for Playing!
